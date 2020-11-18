@@ -1,0 +1,1 @@
+from .rule_player import BluePlayer

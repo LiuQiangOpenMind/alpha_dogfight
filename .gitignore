@@ -1,0 +1,12 @@
+.vscode/
+*.pyc
+*.log
+scheduler*
+__pycache__/
+*.json
+*.cpp
+
+data/
+models/
+drill/
+.idea/
